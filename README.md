@@ -1,6 +1,6 @@
 # WordPress Password Breaker
 
-Este script foi criado por **./crombey** para te ajudar a testar a segurança de sites WordPress por meio de um ataque de bruteforce as senhas. Ele usa uma lista de possíveis senhas (*wordlist*) para tentar encontrar a senha correta de um usuário.
+Este script foi criado por **./crombey** para ajudar a testar a segurança de sites WordPress por meio de um ataque de bruteforce as senhas. Ele usa uma lista de possíveis senhas (*wordlist*) para tentar encontrar a senha correta de um usuário.
 
 ## Como funciona
 
